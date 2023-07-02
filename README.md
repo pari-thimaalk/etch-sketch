@@ -1,2 +1,9 @@
 # etch-sketch
-TOP project to practice DOM manipulation and Web Dev Fundamentals
+Refresher exercise found on The Odin Project for Web Dev Fundamentals
+
+Topics covered:
+    - event listeners
+    - flexbox
+    - DOM manipulation using javascript
+
+

@@ -1,4 +1,10 @@
+.title{
+    width:200px;
+    margin:auto;
+}
+
 .grid_container{
+    margin: 40px auto;
     display:flex;
     flex-direction:column;
     width: 300px;
@@ -13,6 +19,15 @@
 
 .grid_element{
     margin: 1px;
-    background-color: blue;
+    background-color: white;
     flex:1
 }
+
+.toolbox{
+    width:300px;
+    margin:auto
+}
+
+.slider:hover {
+    opacity: 1; /* Fully shown on mouse-over */
+  }
